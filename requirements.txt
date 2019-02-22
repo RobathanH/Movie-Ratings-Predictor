@@ -1,0 +1,6 @@
+kaggle==1.5.1.1
+numpy==1.16.0
+pandas==0.23.4
+scikit-surprise==1.0.6
+scipy==1.2.0
+tmdbsimple==2.2.0
